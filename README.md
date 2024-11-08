@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Garrick McDonald
+## Lab 08
+## 8 November 2024
 ## Worked with/sources 
 * example
 * example
